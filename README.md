@@ -47,7 +47,7 @@ A simple and secure **Inventory Management System** built using **PHP, MySQL, Bo
 1️.Clone Repository
 
 bash
-git clone https://github.com/yourusername/inventory-system.git
+git clone https://github.com/Rojanm/inventory-management-system.git
 
 
 2️.Move to XAMPP
@@ -66,7 +66,7 @@ C:\xampp\htdocs\
 
 4. Open in Browser
 
-http://localhost/INVENTORY-MANAGEMENT-SYSTEM
+http://localhost/Inventory-management-system
 
 
 
